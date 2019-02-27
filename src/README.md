@@ -338,6 +338,55 @@ CU2_nn： 所有铜元素；
 N3_c2_cu1： 所有N元素
 F1_c: 所有F元素。
 ```
+
+```flow
+io=>inputoutput: verification
+op=>operation: Your Operation
+sub=>subroutine: Your Subroutine
+st=>start: Start
+atomc=>condition: atom element is C?
+atomh=>condition: atom element is H?
+atomcu=>condition: atom element is Cu?
+atomn=>condition: atom element is N?
+atomf=>condition: atom element is F?
+atomcn=>condition: connection has N?
+atomcn1=>condition: connection has 1 N?
+atomcn2=>condition: connection has 2 N?
+atomcf=>condition: connection has F?
+rh=>operation: replace connection with H1_c
+rcu=>operation: replace connection with CU2_nn
+rn=>operation: replace connection with N3_c2_cu1
+rf=>operation: replace connection with F1_c
+rcn1=>operation: replace connection with C3_c2_n1
+rcn2=>operation: replace connection with C3_c1_n2
+rcn0f0=>operation: replace connection with C3_c2
+rcf=>operation: replace connection with C4_c1_f3
+others=>operation: No Operation
+e=>end
+
+st->atomc
+atomc(yes)->atomcn
+atomc(no)->atomh
+atomh(yes)->rh->e
+atomh(no)->atomcu
+atomcu(yes)->rcu->e
+atomcu(no)->atomn
+atomn(yes)->rn->e
+atomn(no)->atomf
+atomf(yes)->rf->e
+atomf(no)->others
+atomcn(yes)->atomcn1
+atomcn(no)->atomcf
+atomcn1(yes)->rcn1->e
+atomcn1(no)->atomcn2
+atomcn2(yes)->rcn2->e
+atomcn2(no)->others
+atomcf(yes)->rcf->e
+atomcf(no)->rcn0f0->e
+others->e
+```
+
+
 # 2.根据力场参数转换成lammps的输入文件
 首先了解lammps输入文件中data的格式：
 ```
@@ -590,10 +639,10 @@ Improper Coeffs # cvff
                                                        
 ```
 需要写的代码是，首先遍历所有的原子类型（首先能识别原子类型，将已得到的力场类型给定到所选的体系），然后遍历键、角、二面角、不当二面角,然后算出总数，然后sort，算出类别：
-build_bond_list -> count_bonds ->build_bonds_type;  
-build_angles_list ->  count_angles -> build_angles_types;  
-build_dihedrals_list -> count_dihedrals -> build_dihedrals_type;  
-build_impropers_list -> count_impropers -> build_impropers_type;  
+build_bond_list -> count_bonds ->build_bonds_type;
+build_angles_list ->  count_angles -> build_angles_types;
+build_dihedrals_list -> count_dihedrals -> build_dihedrals_type;
+build_impropers_list -> count_impropers -> build_impropers_type;
 
 具体算法可以参考msi2lmp中的MakeLists.c文件。
 
