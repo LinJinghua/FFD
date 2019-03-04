@@ -1,0 +1,7 @@
+boundary m m m
+units real
+atom_style full
+pair_style lj/cut/coul/cut 15.0
+bond_style harmonic
+ERROR: Unknown bond style harmonic (src/force.cpp:390)
+Last command: bond_style harmonic

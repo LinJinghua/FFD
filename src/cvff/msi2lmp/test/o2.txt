@@ -1,0 +1,1120 @@
+
+Running msi2lmp v3.9.9 / 05 Nov 2018
+
+ Forcefield: Class I
+ Forcefield file name: ../frc_files/cvff.frc
+ Output is recentered around geometrical center
+ Output contains style flag hints
+ System translated by: 0 0 0
+ Reading car file: hydrogen-class1.car
+ Reading mdf file: hydrogen-class1.mdf
+
+ Building internal coordinate lists 
+[bonds] 2 1 1
+[angles] 0 0
+[dihedrals] 0 0
+
+ Reading forcefield file 
+
+ Get force field parameters for this system
+
+ Check parameters for internal consistency
+ Writing LAMMPS data file hydrogen-class1.data for Class I force field
+
+Normal program termination
+opened data file l: hydrogen-class1.data
+
+LAMMPS data file validation tool. v0.3
+
+opened data file 1: hydrogen-class1.data
+LAMMPS data file. msi2lmp v3.9.9 / 05 Nov 2018 / CGCMM for hydrogen-class1
+done reading data file 1
+
+opened data file 2: reference/hydrogen-class1.data
+LAMMPS data file from msi2lmp v3.8 for hydrogen-class1
+done reading data file 2
+
+File hydrogen-class1.data and reference/hydrogen-class1.data match
+
+opened data file l: hydrogen-class1.data2
+No such file or directory at ./data-compare.pl line 921.
+
+LAMMPS data file validation tool. v0.3
+
+
+Running msi2lmp v3.9.9 / 05 Nov 2018
+
+ Forcefield: Class I
+ Forcefield file name: ../frc_files/cvff.frc
+ Output is recentered around geometrical center
+ Output contains style flag hints
+ System translated by: 0 0 0
+ Reading car file: water-class1.car
+ Reading mdf file: water-class1.mdf
+
+ Building internal coordinate lists 
+[bonds] 4 2 2
+[angles] 1 1
+[dihedrals] 0 0
+
+ Reading forcefield file 
+
+ Get force field parameters for this system
+
+ Check parameters for internal consistency
+ Writing LAMMPS data file water-class1.data for Class I force field
+
+Normal program termination
+opened data file l: water-class1.data
+
+LAMMPS data file validation tool. v0.3
+
+opened data file 1: water-class1.data
+LAMMPS data file. msi2lmp v3.9.9 / 05 Nov 2018 / CGCMM for water-class1
+done reading data file 1
+
+opened data file 2: reference/water-class1.data
+LAMMPS data file. msi2lmp v3.9.7 / 24 Oct 2015 / CGCMM for water-class1
+done reading data file 2
+
+File water-class1.data and reference/water-class1.data match
+
+opened data file l: water-class1.data2
+No such file or directory at ./data-compare.pl line 921.
+
+LAMMPS data file validation tool. v0.3
+
+
+Running msi2lmp v3.9.9 / 05 Nov 2018
+
+ Forcefield: Class I
+ Forcefield file name: ../frc_files/cvff.frc
+ Output is recentered around geometrical center
+ Output contains style flag hints
+ System translated by: 0 0 0
+ Reading car file: h2-h2o-class1.car
+ Reading mdf file: h2-h2o-class1.mdf
+
+ Building internal coordinate lists 
+[bonds] 6 3 3
+[angles] 1 1
+[dihedrals] 0 0
+
+ Reading forcefield file 
+
+ Get force field parameters for this system
+
+ Check parameters for internal consistency
+ Writing LAMMPS data file h2-h2o-class1.data for Class I force field
+
+Normal program termination
+opened data file l: h2-h2o-class1.data
+
+LAMMPS data file validation tool. v0.3
+
+opened data file 1: h2-h2o-class1.data
+LAMMPS data file. msi2lmp v3.9.9 / 05 Nov 2018 / CGCMM for h2-h2o-class1
+done reading data file 1
+
+opened data file 2: reference/h2-h2o-class1.data
+LAMMPS data file. msi2lmp v3.9.7 / 24 Oct 2015 / CGCMM for h2-h2o-class1
+done reading data file 2
+
+File h2-h2o-class1.data and reference/h2-h2o-class1.data match
+
+opened data file l: h2-h2o-class1.data2
+No such file or directory at ./data-compare.pl line 921.
+
+LAMMPS data file validation tool. v0.3
+
+
+Running msi2lmp v3.9.9 / 05 Nov 2018
+
+ Forcefield: Class I
+ Forcefield file name: ../frc_files/cvff.frc
+ Output is recentered around geometrical center
+ Output contains style flag hints
+ System translated by: 0 0 0
+ Reading car file: ethane-class1.car
+ Reading mdf file: ethane-class1.mdf
+
+ Building internal coordinate lists 
+[bonds] 14 7 7
+[angles] 12 12
+[dihedrals] 9 9
+
+ Reading forcefield file 
+
+ Get force field parameters for this system
+
+ Check parameters for internal consistency
+ Writing LAMMPS data file ethane-class1.data for Class I force field
+
+Normal program termination
+opened data file l: ethane-class1.data
+
+LAMMPS data file validation tool. v0.3
+
+opened data file 1: ethane-class1.data
+LAMMPS data file. msi2lmp v3.9.9 / 05 Nov 2018 / CGCMM for ethane-class1
+done reading data file 1
+
+opened data file 2: reference/ethane-class1.data
+LAMMPS data file. msi2lmp v3.9.7 / 24 Oct 2015 / CGCMM for ethane-class1
+done reading data file 2
+
+File ethane-class1.data and reference/ethane-class1.data match
+
+opened data file l: ethane-class1.data2
+No such file or directory at ./data-compare.pl line 921.
+
+LAMMPS data file validation tool. v0.3
+
+
+Running msi2lmp v3.9.9 / 05 Nov 2018
+
+ Forcefield: Class I
+ Forcefield file name: ../frc_files/cvff.frc
+ Output is recentered around geometrical center
+ Output contains style flag hints
+ System translated by: 0 0 0
+ Reading car file: benzene-class1.car
+ Reading mdf file: benzene-class1.mdf
+
+ Building internal coordinate lists 
+[bonds] 24 12 12
+[angles] 18 18
+[dihedrals] 24 24
+
+ Reading forcefield file 
+
+ Get force field parameters for this system
+
+ Check parameters for internal consistency
+ Writing LAMMPS data file benzene-class1.data for Class I force field
+
+Normal program termination
+opened data file l: benzene-class1.data
+
+LAMMPS data file validation tool. v0.3
+
+opened data file 1: benzene-class1.data
+LAMMPS data file. msi2lmp v3.9.9 / 05 Nov 2018 / CGCMM for benzene-class1
+done reading data file 1
+
+opened data file 2: reference/benzene-class1.data
+LAMMPS data file. msi2lmp v3.9.7 / 24 Oct 2015 / CGCMM for benzene-class1
+done reading data file 2
+
+File benzene-class1.data and reference/benzene-class1.data match
+
+opened data file l: benzene-class1.data2
+No such file or directory at ./data-compare.pl line 921.
+
+LAMMPS data file validation tool. v0.3
+
+
+Running msi2lmp v3.9.9 / 05 Nov 2018
+
+ Forcefield: Class I
+ Forcefield file name: ../frc_files/cvff.frc
+ Output is recentered around geometrical center
+ Output contains style flag hints
+ System translated by: 0 0 0
+ Reading car file: naphthalene-class1.car
+ Reading mdf file: naphthalene-class1.mdf
+
+ Building internal coordinate lists 
+[bonds] 38 19 19
+[angles] 30 30
+[dihedrals] 44 44
+
+ Reading forcefield file 
+
+ Get force field parameters for this system
+
+ Check parameters for internal consistency
+ Writing LAMMPS data file naphthalene-class1.data for Class I force field
+
+Normal program termination
+opened data file l: naphthalene-class1.data
+
+LAMMPS data file validation tool. v0.3
+
+opened data file 1: naphthalene-class1.data
+LAMMPS data file. msi2lmp v3.9.9 / 05 Nov 2018 / CGCMM for naphthalene-class1
+done reading data file 1
+
+opened data file 2: reference/naphthalene-class1.data
+LAMMPS data file. msi2lmp v3.9.7 / 24 Oct 2015 / CGCMM for naphthalene-class1
+done reading data file 2
+
+File naphthalene-class1.data and reference/naphthalene-class1.data match
+
+opened data file l: naphthalene-class1.data2
+No such file or directory at ./data-compare.pl line 921.
+
+LAMMPS data file validation tool. v0.3
+
+
+Running msi2lmp v3.9.9 / 05 Nov 2018
+
+ Forcefield: Class I
+ Forcefield file name: ../frc_files/cvff.frc
+ Output is recentered around geometrical center
+ Output contains style flag hints
+ System translated by: 0 0 0
+ Reading car file: cnt-hexagonal-class1.car
+ Reading mdf file: cnt-hexagonal-class1.mdf
+
+ Building internal coordinate lists 
+[bonds] 1812 906 906
+[angles] 1812 1812
+[dihedrals] 3624 3624
+
+ Reading forcefield file 
+
+ Get force field parameters for this system
+
+ Check parameters for internal consistency
+ Writing LAMMPS data file cnt-hexagonal-class1.data for Class I force field
+
+Normal program termination
+opened data file l: cnt-hexagonal-class1.data
+
+LAMMPS data file validation tool. v0.3
+
+opened data file 1: cnt-hexagonal-class1.data
+LAMMPS data file. msi2lmp v3.9.9 / 05 Nov 2018 / CGCMM for cnt-hexagonal-class1
+done reading data file 1
+
+opened data file 2: reference/cnt-hexagonal-class1.data
+LAMMPS data file. msi2lmp v3.9.7 / 24 Oct 2015 / CGCMM for cnt-hexagonal-class1
+done reading data file 2
+
+File cnt-hexagonal-class1.data and reference/cnt-hexagonal-class1.data match
+
+opened data file l: cnt-hexagonal-class1.data2
+No such file or directory at ./data-compare.pl line 921.
+
+LAMMPS data file validation tool. v0.3
+
+ WARNING inconsistent # of connects on atom 135 type n
+ WARNING inconsistent # of connects on atom 243 type n
+
+Running msi2lmp v3.9.9 / 05 Nov 2018
+
+ Forcefield: Class I
+ Forcefield file name: ../frc_files/cvff.frc
+ Output is recentered around geometrical center
+ Output contains style flag hints
+ System translated by: 0 0 0
+ Reading car file: crambin-class1.car
+ Reading mdf file: crambin-class1.mdf
+
+ Building internal coordinate lists 
+[bonds] 1304 652 652
+[angles] 1181 1181
+[dihedrals] 1741 1741
+
+ Reading forcefield file 
+
+ Get force field parameters for this system
+
+ Check parameters for internal consistency
+ Writing LAMMPS data file crambin-class1.data for Class I force field
+
+Normal program termination
+opened data file l: crambin-class1.data
+
+LAMMPS data file validation tool. v0.3
+
+opened data file 1: crambin-class1.data
+LAMMPS data file. msi2lmp v3.9.9 / 05 Nov 2018 / CGCMM for crambin-class1
+done reading data file 1
+
+opened data file 2: reference/crambin-class1.data
+LAMMPS data file. msi2lmp v3.9.7 / 24 Oct 2015 / CGCMM for crambin-class1
+done reading data file 2
+
+File crambin-class1.data and reference/crambin-class1.data match
+
+opened data file l: crambin-class1.data2
+No such file or directory at ./data-compare.pl line 921.
+
+LAMMPS data file validation tool. v0.3
+
+
+Running msi2lmp v3.9.9 / 05 Nov 2018
+
+ Forcefield: Class I
+ Forcefield file name: ../frc_files/cvff.frc
+ Output is recentered around geometrical center
+ Output contains style flag hints
+ System translated by: 0 0 0
+ Reading car file: nylon-class1.car
+ Reading mdf file: nylon-class1.mdf
+
+ Building internal coordinate lists 
+[bonds] 232 116 116
+[angles] 219 219
+[dihedrals] 311 311
+
+ Reading forcefield file 
+
+ Get force field parameters for this system
+
+ Check parameters for internal consistency
+ Writing LAMMPS data file nylon-class1.data for Class I force field
+
+Normal program termination
+opened data file l: nylon-class1.data
+
+LAMMPS data file validation tool. v0.3
+
+opened data file 1: nylon-class1.data
+LAMMPS data file. msi2lmp v3.9.9 / 05 Nov 2018 / CGCMM for nylon-class1
+done reading data file 1
+
+opened data file 2: reference/nylon-class1.data
+LAMMPS data file. msi2lmp v3.9.7 / 24 Oct 2015 / CGCMM for nylon-class1
+done reading data file 2
+
+File nylon-class1.data and reference/nylon-class1.data match
+
+opened data file l: nylon-class1.data2
+No such file or directory at ./data-compare.pl line 921.
+
+LAMMPS data file validation tool. v0.3
+
+
+Running msi2lmp v3.9.9 / 05 Nov 2018
+
+ Forcefield: Class I
+ Forcefield file name: ../frc_files/cvff.frc
+ Output is recentered around geometrical center
+ Output contains style flag hints
+ System translated by: 0 0 0
+ Reading car file: phen3_cff97-class1.car
+ Reading mdf file: phen3_cff97-class1.mdf
+
+ Building internal coordinate lists 
+[bonds] 46 23 23
+[angles] 39 39
+[dihedrals] 54 54
+
+ Reading forcefield file 
+
+ Get force field parameters for this system
+
+ Check parameters for internal consistency
+ Writing LAMMPS data file phen3_cff97-class1.data for Class I force field
+
+Normal program termination
+opened data file l: phen3_cff97-class1.data
+
+LAMMPS data file validation tool. v0.3
+
+opened data file 1: phen3_cff97-class1.data
+LAMMPS data file. msi2lmp v3.9.9 / 05 Nov 2018 / CGCMM for phen3_cff97-class1
+done reading data file 1
+
+opened data file 2: reference/phen3_cff97-class1.data
+LAMMPS data file. msi2lmp v3.9.7 / 24 Oct 2015 / CGCMM for phen3_cff97-class1
+done reading data file 2
+
+File phen3_cff97-class1.data and reference/phen3_cff97-class1.data match
+
+opened data file l: phen3_cff97-class1.data2
+No such file or directory at ./data-compare.pl line 921.
+
+LAMMPS data file validation tool. v0.3
+
+
+Running msi2lmp v3.9.9 / 05 Nov 2018
+
+ Forcefield: Class I
+ Forcefield file name: ../frc_files/cvff.frc
+ Output is recentered around geometrical center
+ Output contains style flag hints
+ System translated by: 0 0 0
+ Reading car file: hap_crystal-class1.car
+ Reading mdf file: hap_crystal-class1.mdf
+
+ Building internal coordinate lists 
+[bonds] 104 52 52
+[angles] 72 72
+[dihedrals] 0 0
+
+ Reading forcefield file 
+
+ Get force field parameters for this system
+
+ Check parameters for internal consistency
+ Writing LAMMPS data file hap_crystal-class1.data for Class I force field
+
+Normal program termination
+opened data file l: hap_crystal-class1.data
+
+LAMMPS data file validation tool. v0.3
+
+opened data file 1: hap_crystal-class1.data
+LAMMPS data file. msi2lmp v3.9.9 / 05 Nov 2018 / CGCMM for hap_crystal-class1
+done reading data file 1
+
+opened data file 2: reference/hap_crystal-class1.data
+LAMMPS data file. msi2lmp v3.9.7 / 24 Oct 2015 / CGCMM for hap_crystal-class1
+done reading data file 2
+
+File hap_crystal-class1.data and reference/hap_crystal-class1.data match
+
+opened data file l: hap_crystal-class1.data2
+No such file or directory at ./data-compare.pl line 921.
+
+LAMMPS data file validation tool. v0.3
+
+
+Running msi2lmp v3.9.9 / 05 Nov 2018
+
+ Forcefield: Class I
+ Forcefield file name: ../frc_files/clayff.frc
+ Output contains style flag hints
+ System translated by: 0 0 0
+ Reading car file: PyAC_bulk-clayff.car
+ Reading mdf file: PyAC_bulk-clayff.mdf
+
+ Building internal coordinate lists 
+[bonds] 256 128 128
+[angles] 0 0
+[dihedrals] 0 0
+
+ Reading forcefield file 
+
+ Get force field parameters for this system
+
+ Check parameters for internal consistency
+ Writing LAMMPS data file PyAC_bulk-clayff.data for Class I force field
+
+Normal program termination
+opened data file l: PyAC_bulk-clayff.data
+Box data for zlo does not match: -9.189871922 -9.196614681 at ./data-compare.pl line 869.
+
+LAMMPS data file validation tool. v0.3
+
+opened data file 1: PyAC_bulk-clayff.data
+LAMMPS data file. msi2lmp v3.9.9 / 05 Nov 2018 / CGCMM for PyAC_bulk-clayff
+done reading data file 1
+
+opened data file 2: reference/PyAC_bulk-clayff.data
+LAMMPS data file. msi2lmp v3.9.8 / 06 Oct 2016 / CGCMM for PyAC_bulk-clayff
+done reading data file 2
+
+opened data file l: PyAC_bulk-clayff.data2
+No such file or directory at ./data-compare.pl line 921.
+
+LAMMPS data file validation tool. v0.3
+
+
+Running msi2lmp v3.9.9 / 05 Nov 2018
+
+ Forcefield: OPLS-AA
+ Forcefield file name: ../frc_files/oplsaa.frc
+ Output contains style flag hints
+ System translated by: 0 0 0
+ Reading car file: ethane-oplsaa.car
+ Reading mdf file: ethane-oplsaa.mdf
+
+ Building internal coordinate lists 
+[bonds] 14 7 7
+[angles] 12 12
+[dihedrals] 9 9
+
+ Reading forcefield file 
+
+ Get force field parameters for this system
+
+ Check parameters for internal consistency
+ Writing LAMMPS data file ethane-oplsaa.data for OPLS-AA force field
+
+Normal program termination
+opened data file l: ethane-oplsaa.data
+
+LAMMPS data file validation tool. v0.3
+
+opened data file 1: ethane-oplsaa.data
+LAMMPS data file. msi2lmp v3.9.9 / 05 Nov 2018 / CGCMM for ethane-oplsaa
+done reading data file 1
+
+opened data file 2: reference/ethane-oplsaa.data
+LAMMPS data file. msi2lmp v3.9.7 / 24 Oct 2015 / CGCMM for ethane-oplsaa
+done reading data file 2
+
+File ethane-oplsaa.data and reference/ethane-oplsaa.data match
+
+opened data file l: ethane-oplsaa.data2
+No such file or directory at ./data-compare.pl line 921.
+
+LAMMPS data file validation tool. v0.3
+
+
+Running msi2lmp v3.9.9 / 05 Nov 2018
+
+ Forcefield: OPLS-AA
+ Forcefield file name: ../frc_files/oplsaa.frc
+ Output contains style flag hints
+ System translated by: 0 0 0
+ Reading car file: decane-oplsaa.car
+ Reading mdf file: decane-oplsaa.mdf
+
+ Building internal coordinate lists 
+[bonds] 6200 3100 3100
+[angles] 6000 6000
+[dihedrals] 8100 8100
+
+ Reading forcefield file 
+
+ Get force field parameters for this system
+
+ Check parameters for internal consistency
+ Writing LAMMPS data file decane-oplsaa.data for OPLS-AA force field
+
+Normal program termination
+opened data file l: decane-oplsaa.data
+
+LAMMPS data file validation tool. v0.3
+
+opened data file 1: decane-oplsaa.data
+LAMMPS data file. msi2lmp v3.9.9 / 05 Nov 2018 / CGCMM for decane-oplsaa
+done reading data file 1
+
+opened data file 2: reference/decane-oplsaa.data
+LAMMPS data file. msi2lmp v3.9.6 / 11 Sep 2014 / CGCMM for decane-oplsaa
+done reading data file 2
+
+File decane-oplsaa.data and reference/decane-oplsaa.data match
+
+opened data file l: decane-oplsaa.data2
+No such file or directory at ./data-compare.pl line 921.
+
+LAMMPS data file validation tool. v0.3
+
+
+Running msi2lmp v3.9.9 / 05 Nov 2018
+
+ Forcefield: Class II
+ Forcefield file name: ../frc_files/compass_published.frc
+ Output is recentered around geometrical center
+ Output contains style flag hints
+ System translated by: 0 0 0
+ Reading car file: hydrogen-class2a.car
+ Reading mdf file: hydrogen-class2a.mdf
+
+ Building internal coordinate lists 
+[bonds] 2 1 1
+[angles] 0 0
+[dihedrals] 0 0
+
+ Reading forcefield file 
+
+ Get force field parameters for this system
+
+ Check parameters for internal consistency
+ Writing LAMMPS data file hydrogen-class2a.data for Class II force field
+
+Normal program termination
+opened data file l: hydrogen-class2a.data
+
+LAMMPS data file validation tool. v0.3
+
+opened data file 1: hydrogen-class2a.data
+LAMMPS data file. msi2lmp v3.9.9 / 05 Nov 2018 / CGCMM for hydrogen-class2a
+done reading data file 1
+
+opened data file 2: reference/hydrogen-class2a.data
+LAMMPS data file from msi2lmp v3.8 for hydrogen-class2a
+done reading data file 2
+
+File hydrogen-class2a.data and reference/hydrogen-class2a.data match
+
+opened data file l: hydrogen-class2a.data2
+No such file or directory at ./data-compare.pl line 921.
+
+LAMMPS data file validation tool. v0.3
+
+
+Running msi2lmp v3.9.9 / 05 Nov 2018
+
+ Forcefield: Class II
+ Forcefield file name: ../frc_files/compass_published.frc
+ Output is recentered around geometrical center
+ Output contains style flag hints
+ System translated by: 0 0 0
+ Reading car file: ethane-class2a.car
+ Reading mdf file: ethane-class2a.mdf
+
+ Building internal coordinate lists 
+[bonds] 14 7 7
+[angles] 12 12
+[dihedrals] 9 9
+
+ Reading forcefield file 
+
+ Get force field parameters for this system
+
+ Check parameters for internal consistency
+ Writing LAMMPS data file ethane-class2a.data for Class II force field
+
+Normal program termination
+opened data file l: ethane-class2a.data
+
+LAMMPS data file validation tool. v0.3
+
+opened data file 1: ethane-class2a.data
+LAMMPS data file. msi2lmp v3.9.9 / 05 Nov 2018 / CGCMM for ethane-class2a
+done reading data file 1
+
+opened data file 2: reference/ethane-class2a.data
+LAMMPS data file. msi2lmp v3.9.7 / 24 Oct 2015 / CGCMM for ethane-class2a
+done reading data file 2
+
+File ethane-class2a.data and reference/ethane-class2a.data match
+
+opened data file l: ethane-class2a.data2
+No such file or directory at ./data-compare.pl line 921.
+
+LAMMPS data file validation tool. v0.3
+
+
+Running msi2lmp v3.9.9 / 05 Nov 2018
+
+ Forcefield: Class II
+ Forcefield file name: ../frc_files/compass_published.frc
+ Output is recentered around geometrical center
+ Output contains style flag hints
+ System translated by: 0 0 0
+ Reading car file: benzene-class2a.car
+ Reading mdf file: benzene-class2a.mdf
+
+ Building internal coordinate lists 
+[bonds] 24 12 12
+[angles] 18 18
+[dihedrals] 24 24
+
+ Reading forcefield file 
+
+ Get force field parameters for this system
+
+ Check parameters for internal consistency
+ Writing LAMMPS data file benzene-class2a.data for Class II force field
+
+Normal program termination
+opened data file l: benzene-class2a.data
+
+LAMMPS data file validation tool. v0.3
+
+opened data file 1: benzene-class2a.data
+LAMMPS data file. msi2lmp v3.9.9 / 05 Nov 2018 / CGCMM for benzene-class2a
+done reading data file 1
+
+opened data file 2: reference/benzene-class2a.data
+LAMMPS data file from msi2lmp v3.8 for benzene-class2
+done reading data file 2
+
+File benzene-class2a.data and reference/benzene-class2a.data match
+
+opened data file l: benzene-class2a.data2
+No such file or directory at ./data-compare.pl line 921.
+
+LAMMPS data file validation tool. v0.3
+
+
+Running msi2lmp v3.9.9 / 05 Nov 2018
+
+ Forcefield: Class II
+ Forcefield file name: ../frc_files/compass_published.frc
+ Output is recentered around geometrical center
+ Output contains style flag hints
+ System translated by: 0 0 0
+ Reading car file: naphthalene-class2a.car
+ Reading mdf file: naphthalene-class2a.mdf
+
+ Building internal coordinate lists 
+[bonds] 38 19 19
+[angles] 30 30
+[dihedrals] 44 44
+
+ Reading forcefield file 
+
+ Get force field parameters for this system
+
+ Check parameters for internal consistency
+ Writing LAMMPS data file naphthalene-class2a.data for Class II force field
+
+Normal program termination
+opened data file l: naphthalene-class2a.data
+
+LAMMPS data file validation tool. v0.3
+
+opened data file 1: naphthalene-class2a.data
+LAMMPS data file. msi2lmp v3.9.9 / 05 Nov 2018 / CGCMM for naphthalene-class2a
+done reading data file 1
+
+opened data file 2: reference/naphthalene-class2a.data
+LAMMPS data file. msi2lmp v3.9.7 / 24 Oct 2015 / CGCMM for naphthalene-class2a
+done reading data file 2
+
+File naphthalene-class2a.data and reference/naphthalene-class2a.data match
+
+opened data file l: naphthalene-class2a.data2
+No such file or directory at ./data-compare.pl line 921.
+
+LAMMPS data file validation tool. v0.3
+
+
+Running msi2lmp v3.9.9 / 05 Nov 2018
+
+ Forcefield: Class II
+ Forcefield file name: ../frc_files/compass_published.frc
+ Output is recentered around geometrical center
+ Output contains style flag hints
+ System translated by: 0 0 0
+ Reading car file: cnt-hexagonal-class2a.car
+ Reading mdf file: cnt-hexagonal-class2a.mdf
+
+ Building internal coordinate lists 
+[bonds] 1812 906 906
+[angles] 1812 1812
+[dihedrals] 3624 3624
+
+ Reading forcefield file 
+
+ Get force field parameters for this system
+
+ Check parameters for internal consistency
+ Writing LAMMPS data file cnt-hexagonal-class2a.data for Class II force field
+
+Normal program termination
+opened data file l: cnt-hexagonal-class2a.data
+
+LAMMPS data file validation tool. v0.3
+
+opened data file 1: cnt-hexagonal-class2a.data
+LAMMPS data file. msi2lmp v3.9.9 / 05 Nov 2018 / CGCMM for cnt-hexagonal-class2a
+done reading data file 1
+
+opened data file 2: reference/cnt-hexagonal-class2a.data
+LAMMPS data file. msi2lmp v3.9.7 / 24 Oct 2015 / CGCMM for cnt-hexagonal-class2a
+done reading data file 2
+
+File cnt-hexagonal-class2a.data and reference/cnt-hexagonal-class2a.data match
+
+opened data file l: cnt-hexagonal-class2a.data2
+No such file or directory at ./data-compare.pl line 921.
+
+LAMMPS data file validation tool. v0.3
+
+
+Running msi2lmp v3.9.9 / 05 Nov 2018
+
+ Forcefield: Class II
+ Forcefield file name: ../frc_files/pcff.frc
+ Output is recentered around geometrical center
+ Output contains style flag hints
+ System translated by: 0 0 0
+ Reading car file: water-class2b.car
+ Reading mdf file: water-class2b.mdf
+
+ Building internal coordinate lists 
+[bonds] 4 2 2
+[angles] 1 1
+[dihedrals] 0 0
+
+ Reading forcefield file 
+
+ Get force field parameters for this system
+
+ Check parameters for internal consistency
+ Writing LAMMPS data file water-class2b.data for Class II force field
+
+Normal program termination
+opened data file l: water-class2b.data
+
+LAMMPS data file validation tool. v0.3
+
+opened data file 1: water-class2b.data
+LAMMPS data file. msi2lmp v3.9.9 / 05 Nov 2018 / CGCMM for water-class2b
+done reading data file 1
+
+opened data file 2: reference/water-class2b.data
+LAMMPS data file. msi2lmp v3.9.7 / 24 Oct 2015 / CGCMM for water-class2b
+done reading data file 2
+
+File water-class2b.data and reference/water-class2b.data match
+
+opened data file l: water-class2b.data2
+No such file or directory at ./data-compare.pl line 921.
+
+LAMMPS data file validation tool. v0.3
+
+
+Running msi2lmp v3.9.9 / 05 Nov 2018
+
+ Forcefield: Class II
+ Forcefield file name: ../frc_files/pcff.frc
+ Output is recentered around geometrical center
+ Output contains style flag hints
+ System translated by: 0 0 0
+ Reading car file: h2-h2o-class2b.car
+ Reading mdf file: h2-h2o-class2b.mdf
+
+ Building internal coordinate lists 
+[bonds] 6 3 3
+[angles] 1 1
+[dihedrals] 0 0
+
+ Reading forcefield file 
+
+ Get force field parameters for this system
+
+ Check parameters for internal consistency
+ Writing LAMMPS data file h2-h2o-class2b.data for Class II force field
+
+Normal program termination
+opened data file l: h2-h2o-class2b.data
+
+LAMMPS data file validation tool. v0.3
+
+opened data file 1: h2-h2o-class2b.data
+LAMMPS data file. msi2lmp v3.9.9 / 05 Nov 2018 / CGCMM for h2-h2o-class2b
+done reading data file 1
+
+opened data file 2: reference/h2-h2o-class2b.data
+LAMMPS data file. msi2lmp v3.9.7 / 24 Oct 2015 / CGCMM for h2-h2o-class2b
+done reading data file 2
+
+File h2-h2o-class2b.data and reference/h2-h2o-class2b.data match
+
+opened data file l: h2-h2o-class2b.data2
+No such file or directory at ./data-compare.pl line 921.
+
+LAMMPS data file validation tool. v0.3
+
+
+Running msi2lmp v3.9.9 / 05 Nov 2018
+
+ Forcefield: Class II
+ Forcefield file name: ../frc_files/pcff.frc
+ Output is recentered around geometrical center
+ Output contains style flag hints
+ System translated by: 0 0 0
+ Reading car file: ethane-class2b.car
+ Reading mdf file: ethane-class2b.mdf
+
+ Building internal coordinate lists 
+[bonds] 14 7 7
+[angles] 12 12
+[dihedrals] 9 9
+
+ Reading forcefield file 
+
+ Get force field parameters for this system
+
+ Check parameters for internal consistency
+ Writing LAMMPS data file ethane-class2b.data for Class II force field
+
+Normal program termination
+opened data file l: ethane-class2b.data
+
+LAMMPS data file validation tool. v0.3
+
+opened data file 1: ethane-class2b.data
+LAMMPS data file. msi2lmp v3.9.9 / 05 Nov 2018 / CGCMM for ethane-class2b
+done reading data file 1
+
+opened data file 2: reference/ethane-class2b.data
+LAMMPS data file. msi2lmp v3.9.7 / 24 Oct 2015 / CGCMM for ethane-class2b
+done reading data file 2
+
+File ethane-class2b.data and reference/ethane-class2b.data match
+
+opened data file l: ethane-class2b.data2
+No such file or directory at ./data-compare.pl line 921.
+
+LAMMPS data file validation tool. v0.3
+
+
+Running msi2lmp v3.9.9 / 05 Nov 2018
+
+ Forcefield: Class II
+ Forcefield file name: ../frc_files/pcff.frc
+ Output is recentered around geometrical center
+ Output contains style flag hints
+ System translated by: 0 0 0
+ Reading car file: benzene-class2b.car
+ Reading mdf file: benzene-class2b.mdf
+
+ Building internal coordinate lists 
+[bonds] 24 12 12
+[angles] 18 18
+[dihedrals] 24 24
+
+ Reading forcefield file 
+
+ Get force field parameters for this system
+
+ Check parameters for internal consistency
+ Writing LAMMPS data file benzene-class2b.data for Class II force field
+
+Normal program termination
+opened data file l: benzene-class2b.data
+
+LAMMPS data file validation tool. v0.3
+
+opened data file 1: benzene-class2b.data
+LAMMPS data file. msi2lmp v3.9.9 / 05 Nov 2018 / CGCMM for benzene-class2b
+done reading data file 1
+
+opened data file 2: reference/benzene-class2b.data
+LAMMPS data file from msi2lmp v3.8 for benzene-class2b
+done reading data file 2
+
+File benzene-class2b.data and reference/benzene-class2b.data match
+
+opened data file l: benzene-class2b.data2
+No such file or directory at ./data-compare.pl line 921.
+
+LAMMPS data file validation tool. v0.3
+
+
+Running msi2lmp v3.9.9 / 05 Nov 2018
+
+ Forcefield: Class II
+ Forcefield file name: ../frc_files/pcff.frc
+ Output is recentered around geometrical center
+ Output contains style flag hints
+ System translated by: 0 0 0
+ Reading car file: naphthalene-class2b.car
+ Reading mdf file: naphthalene-class2b.mdf
+
+ Building internal coordinate lists 
+[bonds] 38 19 19
+[angles] 30 30
+[dihedrals] 44 44
+
+ Reading forcefield file 
+
+ Get force field parameters for this system
+
+ Check parameters for internal consistency
+ Writing LAMMPS data file naphthalene-class2b.data for Class II force field
+
+Normal program termination
+opened data file l: naphthalene-class2b.data
+
+LAMMPS data file validation tool. v0.3
+
+opened data file 1: naphthalene-class2b.data
+LAMMPS data file. msi2lmp v3.9.9 / 05 Nov 2018 / CGCMM for naphthalene-class2b
+done reading data file 1
+
+opened data file 2: reference/naphthalene-class2b.data
+LAMMPS data file. msi2lmp v3.9.7 / 24 Oct 2015 / CGCMM for naphthalene-class2b
+done reading data file 2
+
+File naphthalene-class2b.data and reference/naphthalene-class2b.data match
+
+opened data file l: naphthalene-class2b.data2
+No such file or directory at ./data-compare.pl line 921.
+
+LAMMPS data file validation tool. v0.3
+
+
+Running msi2lmp v3.9.9 / 05 Nov 2018
+
+ Forcefield: Class II
+ Forcefield file name: ../frc_files/pcff.frc
+ Output is recentered around geometrical center
+ Output contains style flag hints
+ System translated by: 0 0 0
+ Reading car file: cnt-hexagonal-class2b.car
+ Reading mdf file: cnt-hexagonal-class2b.mdf
+
+ Building internal coordinate lists 
+[bonds] 1812 906 906
+[angles] 1812 1812
+[dihedrals] 3624 3624
+
+ Reading forcefield file 
+
+ Get force field parameters for this system
+
+ Check parameters for internal consistency
+ Writing LAMMPS data file cnt-hexagonal-class2b.data for Class II force field
+
+Normal program termination
+opened data file l: cnt-hexagonal-class2b.data
+
+LAMMPS data file validation tool. v0.3
+
+opened data file 1: cnt-hexagonal-class2b.data
+LAMMPS data file. msi2lmp v3.9.9 / 05 Nov 2018 / CGCMM for cnt-hexagonal-class2b
+done reading data file 1
+
+opened data file 2: reference/cnt-hexagonal-class2b.data
+LAMMPS data file. msi2lmp v3.9.3 / 07 Mar 2014 / CGCMM for cnt-hexagonal-class2b
+done reading data file 2
+
+File cnt-hexagonal-class2b.data and reference/cnt-hexagonal-class2b.data match
+
+opened data file l: cnt-hexagonal-class2b.data2
+No such file or directory at ./data-compare.pl line 921.
+
+LAMMPS data file validation tool. v0.3
+
+
+Running msi2lmp v3.9.9 / 05 Nov 2018
+
+ Forcefield: Class II
+ Forcefield file name: ../frc_files/pcff.frc
+ Output is recentered around geometrical center
+ Output contains style flag hints
+ System translated by: 0 0 0
+ Reading car file: hap_crystal-class2b.car
+ Reading mdf file: hap_crystal-class2b.mdf
+
+ Building internal coordinate lists 
+[bonds] 104 52 52
+[angles] 72 72
+[dihedrals] 0 0
+
+ Reading forcefield file 
+
+ Get force field parameters for this system
+
+ Check parameters for internal consistency
+ Writing LAMMPS data file hap_crystal-class2b.data for Class II force field
+
+Normal program termination
+opened data file l: hap_crystal-class2b.data
+
+LAMMPS data file validation tool. v0.3
+
+opened data file 1: hap_crystal-class2b.data
+LAMMPS data file. msi2lmp v3.9.9 / 05 Nov 2018 / CGCMM for hap_crystal-class2b
+done reading data file 1
+
+opened data file 2: reference/hap_crystal-class2b.data
+LAMMPS data file. msi2lmp v3.9.7 / 24 Oct 2015 / CGCMM for hap_crystal-class2b
+done reading data file 2
+
+File hap_crystal-class2b.data and reference/hap_crystal-class2b.data match
+
+opened data file l: hap_crystal-class2b.data2
+No such file or directory at ./data-compare.pl line 921.
+
+LAMMPS data file validation tool. v0.3
+
+Total error count: 53 / 156
+
+Total error count: 53 / 156
+

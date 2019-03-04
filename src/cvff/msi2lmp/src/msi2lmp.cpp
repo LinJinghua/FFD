@@ -2,6 +2,8 @@
 *
 *  msi2lmp.exe
 *
+*   v3.9.9 AK- Teach msi2lmp to not generate dihedrals with identical 1-4 atoms
+*
 *   v3.9.8 AK- Improved whitespace handling in parsing topology and force
 *              field files to avoid bogus warnings about type name truncation
 *
@@ -146,6 +148,7 @@
 */
 
 #include "msi2lmp.h"
+#include "PrmData.h"
 
 #include <stdlib.h>
 #include <string.h>
@@ -382,6 +385,9 @@ int main (int argc, char *argv[])
   /*Read in .mdf file */
 
   ReadMdfFile();
+
+  /*Read in .prm file */
+  ReadPrmFile();
 
   /* Define bonds, angles, etc...*/
 

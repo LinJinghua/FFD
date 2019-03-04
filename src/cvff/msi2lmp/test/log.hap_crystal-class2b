@@ -1,0 +1,5 @@
+units real
+atom_style full
+pair_style lj/class2/coul/cut 15.0
+ERROR: Unknown pair style lj/class2/coul/cut (src/force.cpp:262)
+Last command: pair_style lj/class2/coul/cut 15.0
